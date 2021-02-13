@@ -1,0 +1,43 @@
+Teste para vaga de estagiário
+
+Prazo: Até 2/10.
+
+Instruções
+
+Utilizar apenas Java puro para resolver o problema (não é permitido o uso de funções prontas);
+
+Caso não consiga resolver todos os exercícios, não tem problema, nos envie mesmo assim.
+
+Desafio
+Resolver os seguintes exercícios
+
+E.1 Crie uma função que recebe dois argumentos string e retorna o de maior comprimento.
+
+E.2 Crie uma função que receba uma string e imprima o valor ao contrário.
+
+E.3 Crie uma função que recebe vários argumentos do tipo string e imprime todos juntos
+
+E.4 Dado a seguinte string 'teste 1 de 2 string 3', substitua todas as ocorrências de números pelo valor '[removido]'.
+
+E.5 Dado o dicionário {4: 'a', 3: 'e', 1: 'i', 5: 's'} substitua os números na frase 'T35t3 d3 35t4g1o' conforme o dicionário.
+
+Para os seguintes exercícios considere o array de objetos:
+
+[
+    {id: 1, nome: 'josé', sobrenome: 'da silva', idade: 42},
+    {id: 2, nome: 'joão', sobrenome: 'gonçalves',  idade: 21},
+    {id:3, nome: 'pedro', sobrenome: 'garcia', idade: 28},
+    {id: 4, nome: 'matheus', sobrenome: 'pinheiro',  idade: 21}
+]
+E.6 Imprima uma mensagem de saudação com o nome completo para cada um dos objetos. O nome deve ter a primeira letra maiúscula.
+Ex.:
+Olá, José de tal!
+Olá, João da silva!
+...
+E.7 Imprima a soma das idades 
+
+E.8 Imprima o objeto se existir alguém com menos 26 anos.
+
+E.9 Imprima todos os elementos em que a idade é menor que 30 anos.
+
+E.10 Ordene o array de forma decrescente por idade, em caso de empate o desempate é pelo id.
